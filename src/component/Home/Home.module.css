@@ -1,0 +1,14 @@
+:root {
+
+    --borderColor: #ee0b0b3d;
+    --borderHight: 2px;
+    --backgroundColor:#eb08083d;
+
+}
+
+.brdr {
+
+    border-color: var(--borderColor);
+    height: var(--borderHight);
+    background-color: var(--backgroundColor);
+}
